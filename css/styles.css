@@ -1,0 +1,69 @@
+ul {
+    list-style-type: none;
+}
+
+#create-input #addition #delete-selected {
+    margin-left: 5px;
+}
+
+#addition {
+    margin-left: 5px;
+}
+
+#delete-selected {
+    margin-left: 5px;
+}
+
+.pagination-container {
+    position: relative;
+}
+
+#pagination {
+    margin: 10px 15px 10px 15px;
+}
+
+.delete-button {
+    float: right;
+}
+
+.check-item {
+    margin-left: 8px;
+    margin-top: 5px;
+}
+
+#check-all {
+    margin-left: 5px;
+    margin-top: 10px;
+    margin-right: 5px;
+}
+
+.page-change {
+    position: relative;
+}
+
+#buttons {
+    position: relative;
+    margin: 10px 15px 10px 15px;
+}
+
+#page {
+    background-color: #ced4da;
+}
+
+#check-all {
+    content: '❯';
+}
+
+.page-change {
+    margin: auto;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+.state-switch{
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+h1 {
+    text-align: center;
+}
